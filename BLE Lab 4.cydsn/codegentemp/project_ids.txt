@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\BLE Lab 4\BLE Lab 4.cydsn\BLE Lab 4.cyprj|b8ef2497-3ae0-49f4-ad7d-dd19081b7e27
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|006efdae-4e4d-4fa8-850a-d5f02ae1e7fd
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7df91f1b-d308-4fc4-8c11-c203d1eacb5f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3f47232c-a946-4eb3-9f7b-b16e4143f70d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c7146500-92a2-4f4c-af59-12fd72bbd379
